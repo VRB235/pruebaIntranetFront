@@ -1,0 +1,8 @@
+{
+    "stsServer": "https://localhost:5001",
+    "redirectUrl": "http://localhost:4200",
+    "postLogoutRedirectUri": "http://localhost:4200",
+    "clientId": "angular",
+    "scope": "openid ApiOne",
+    "responseType": "code"
+  }
